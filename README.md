@@ -1,4 +1,4 @@
-# passgen
+# PassGen
 A password generator that has the ability to generate passwords at 3 different levels of complexity.
 
 - Level 1: Generates a password based on the letters in the alphabet.
